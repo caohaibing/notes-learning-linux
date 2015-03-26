@@ -5,4 +5,4 @@ note-learning-linux
 
 电子书使用[gitbook](http://www.gitbook.io/)生成静态页面。
 
-直接点击[note-learning-linux](http://www.quxionglie.com/note-learning-linux/)访问静态页。
+直接点击[notes-learning-linux](http://www.quxionglie.com/notes-learning-linux/)访问静态页。
